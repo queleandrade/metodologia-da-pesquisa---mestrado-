@@ -55,8 +55,6 @@ AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
 
 ## 📚 Artigos selecionados
 
-> Adicione abaixo os artigos incluídos após a triagem. Siga o padrão: número, título completo, autores, ano e link DOI.
-
 | # | Título | Autores | Ano | Link |
 |---|---|---|---|---|
 | 1 | Using ChatGPT to Predict Stock Price Movements Based on Financial News | Lopez-Lira, T.; Tang, Y. | 2023 | [doi.org/10.2139/ssrn.4412788](https://doi.org/10.2139/ssrn.4412788) |

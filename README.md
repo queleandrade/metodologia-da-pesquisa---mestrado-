@@ -75,19 +75,4 @@ AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
 └── /notas/                 # Fichamentos e anotações por artigo
 ```
 
----
-
-## 📝 Como contribuir com a lista de artigos
-
-1. Rode a string de busca no Scopus
-2. Exporte os resultados em CSV
-3. Aplique os critérios de inclusão/exclusão definidos no protocolo
-4. Adicione cada artigo aprovado na tabela acima seguindo o padrão:
-
-```markdown
-| N | Título completo do artigo | Sobrenome, Inicial. | Ano | [doi.org/...](https://doi.org/...) |
-```
-
----
-
 *Repositório mantido como parte do processo de Revisão Sistemática da Literatura (RSL) do TCC.*

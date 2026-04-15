@@ -41,6 +41,12 @@ AND ( LIMIT-TO ( OA , "all" ) )
 AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
 ```
 
+String para o google acadêmico
+
+```
+"large language model" ("financial news") ("stock prediction" OR "stock trading") ("sentiment analysis")
+```
+
 ### Critérios de filtragem
 
 | Critério | Valor |
